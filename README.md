@@ -46,13 +46,8 @@ The project demonstrates an end-to-end approach to preparing sales data, maintai
 2. Open it using Tableau Desktop.
 3. Explore the available charts, filters, and dashboard interactions.
 
- Skills Demonstrated
+Skills Demonstrated
 
-ETL | Data Cleaning | Data Validation | SQL | Python | Pandas | Tableau | Excel | Data Visualization | Sales Analytics
-
-Author
-
-Developed as an E-Commerce Data Analysis and Business Intelligence project.
 ETL | Data Cleaning | Data Validation | SQL | Python | Pandas | Tableau | Excel | Data Visualization | Sales Analytics
 
 ## Author
